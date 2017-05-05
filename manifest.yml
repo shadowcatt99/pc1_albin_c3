@@ -1,0 +1,8 @@
+applications:
+- path: .
+  memory: 128M
+  instances: 1
+  domain: mybluemix.net
+  name: pc1_albin_c3
+  host: pc1albinc3
+  disk_quota: 1024M
